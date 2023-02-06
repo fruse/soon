@@ -73,18 +73,11 @@ code {
   font-weight: 800;
 }
 .titleBar-1it3bQ .wordmark-2u86JB {
+  content: "who's gonna tell'em";
   padding: 5px 9px 5px;
   width: 100vw;
   display: flex;
   justify-content: center;
-}
-.wordmark-2u86JB::after {
-  content: "who's gonna tell'em";
-  position: absolute;
-  font-size: 15px;
-  margin-left: 115px;
-  font-weight: 400;
-  margin-top: 10px;
 }
 .wordmark-2u86JB > svg {
   display: none;
