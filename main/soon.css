@@ -78,12 +78,6 @@ code {
   display: flex;
   justify-content: center;
 }
-.wordmark-2u86JB::before {
-  content:"";
-  position: absolute;
-  font-size: 15px;
-  margin-top: 10px;
-}
 .wordmark-2u86JB::after {
   content: "who's gonna tell'em";
   position: absolute;
